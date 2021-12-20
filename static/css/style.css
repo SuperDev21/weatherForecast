@@ -1,0 +1,44 @@
+*,::before, ::after{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+.container{ 
+   text-align: center;
+   margin-top: 5%;
+}
+
+#inputCity{
+    padding: 10px;
+    margin-right: 5px;
+}
+#btnSubmit{
+    padding: 10px;
+    
+}
+#weatherDiv{
+   width: 100px;
+   margin: auto;
+}
+#inputNumberDay{
+    padding: 10px;
+}
+#meteo{
+    display: flex;
+    justify-content: center;
+}
+#meteo>div{
+    margin: 4%;
+}
+#meteo>div>image{
+    color: #f1f1f1;
+}
+#selectSection{
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
