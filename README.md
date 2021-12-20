@@ -1,6 +1,6 @@
 # WeatherForecast
 
-Ce projet est une application de prévisions météo, entièrement en JavaScript. On utilise des API pour récupérer les prévisions météorologiques d'une ville spécifique et l'afficher dynamiquement dans la page HTML, sans jamais recharger la page.
+Ce projet est une application de prévisions météo, entièrement en JavaScript. On utilise des API pour récupérer les prévisions météorologiques d'une ville spécifique et l'afficher dynamiquement dans la page HTML, sans jamais recharger la page. Vous pouvez consulter l'application à partir de ce lien ` https://weatherforecast-application.netlify.app/`
 
 ## Objectifs du projet
 
